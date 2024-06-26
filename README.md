@@ -4,7 +4,7 @@
 <h3 align="center">A passionate frontend developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://globaleducation.s3.ap-south-1.amazonaws.com/globaledu/gif/front-end-development.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sachinkumar854881&label=Profile%20views&color=0e75b6&style=flat" alt="sachinkumar854881" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=sachinkumar854881&label=Profile%20views&color=0e75b6&style=flat" alt="05sachinkumar2024@gmail.com" /> </p>
 
 <p align="left"> <a href="https://twitter.com/sachin sk" target="blank"><img src="https://img.shields.io/twitter/follow/sachin sk?logo=twitter&style=for-the-badge" alt="sachin sk" /></a> </p>
 
@@ -12,13 +12,13 @@
 
 - 🌱 I’m currently learning **Reactjs,CSS Tailwinds**
 
-- 🤝 I’m looking for help with [AthleteShop](https://sachinkumar854881.github.io/AthleteShop/)
+- 🤝 I’m looking for help with [AthleteShop](https://05sachinkumar2024.github.io/AthleteShop/)
 
-- 👨‍💻 All of my projects are available at [https://sachinkumar854881.github.io/Sachin-Kumar-Portfolio/](https://sachinkumar854881.github.io/Sachin-Kumar-Portfolio/)
+- 👨‍💻 All of my projects are available at [https://05sachinkumar2024.github.io/Sachin-Kumar-Portfolio/](https://05sachinkumar2024.github.io/Sachin-Kumar-Portfolio/)
 
 - 💬 Ask me about **MERN**
 
-- 📫 How to reach me **sachnkumar854881@gmail.com**
+- 📫 How to reach me **05sachnkumar2024@gmail.com**
 
 - ⚡ Fun fact **I am Creative**
 
